@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Ryan's College Courses</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+
+<header>
+    <h1>My Current Courses</h1>
+</header>
+
+<div class="container">
+    <div class="course">
+        <h2><a href="course1.html">Course 1: Introduction to Web Development</a></h2>
+        <p>Learn HTML, CSS, and JavaScript to build websites from scratch.</p>
+        <div class="progress-bar">
+            <div style="width: 75%;">75% Completed</div>
+        </div>
+    </div>
+
+    <div class="course">
+        <h2><a href="course2.html">Course 2: Python for Data Science</a></h2>
+        <p>Learn Python for data analysis, visualization, and machine learning.</p>
+        <div class="progress-bar">
+            <div style="width: 50%;">50% Completed</div>
+        </div>
+    </div>
+
+    <div class="course">
+        <h2><a href="course3.html">Course 3: Machine Learning Basics</a></h2>
+        <p>An introduction to machine learning, covering essential algorithms.</p>
+        <div class="progress-bar">
+            <div style="width: 30%;">30% Completed</div>
+        </div>
+    </div>
+
+    <div class="course">
+        <h2><a href="course4.html">Course 4: Database Management Systems</a></h2>
+        <p>Learn SQL, database design, and data management techniques.</p>
+        <div class="progress-bar">
+            <div style="width: 60%;">60% Completed</div>
+        </div>
+    </div>
+</div>
+
+</body>
+</html>
